@@ -19,7 +19,7 @@ SELECT
     AVG(time_gap) AS average_time_gap
 FROM OrderFrequency
 GROUP BY customer_id
-order by average_time_gap desc;
+ORDER BY average_time_gap DESC;
 
 /*
 This query calculates the average time gap between consecutive orders for each customer. We can then analyze this data to identify 
