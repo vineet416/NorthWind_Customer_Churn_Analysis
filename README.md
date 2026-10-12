@@ -5,7 +5,7 @@ One SQL script answers 14 business questions on purchase frequency, order value,
 It shows how plain SQL can turn order data into retention insights and recommendations.
 
 ## Project Files
-
+ 
 | File | Description |
 |---|---|
 | `Datasets/northwind.sql` | Drops and recreates the `northwind` schema with its 20 tables |
